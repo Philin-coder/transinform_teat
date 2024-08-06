@@ -188,3 +188,4 @@ BEGIN
   -- Записываем конечную позицию
   SET @EndPos = @RightPos;
 END
+
